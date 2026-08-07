@@ -1,4 +1,4 @@
-package com.victor.dolistapi.domain.api.dto;
+package com.victor.dolistapi.dto;
 
 import com.victor.dolistapi.domain.enums.UserRole;
 import jakarta.validation.constraints.Email;

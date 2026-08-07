@@ -1,4 +1,4 @@
-package com.victor.dolistapi.domain.api.dto;
+package com.victor.dolistapi.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

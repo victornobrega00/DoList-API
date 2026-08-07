@@ -1,4 +1,4 @@
-package com.victor.dolistapi.domain.entity;
+package com.victor.dolistapi.domain;
 
 import com.victor.dolistapi.domain.enums.UserRole;
 import jakarta.persistence.*;

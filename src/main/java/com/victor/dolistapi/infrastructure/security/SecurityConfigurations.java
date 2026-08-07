@@ -1,4 +1,4 @@
-package com.victor.dolistapi.infrastructure;
+package com.victor.dolistapi.infrastructure.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

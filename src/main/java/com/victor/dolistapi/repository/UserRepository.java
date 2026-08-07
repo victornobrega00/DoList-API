@@ -1,6 +1,6 @@
-package com.victor.dolistapi.domain.repository;
+package com.victor.dolistapi.repository;
 
-import com.victor.dolistapi.domain.entity.User;
+import com.victor.dolistapi.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

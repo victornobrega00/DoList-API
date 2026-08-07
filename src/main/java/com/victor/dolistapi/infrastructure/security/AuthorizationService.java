@@ -1,6 +1,6 @@
-package com.victor.dolistapi.infrastructure;
+package com.victor.dolistapi.infrastructure.security;
 
-import com.victor.dolistapi.domain.repository.UserRepository;
+import com.victor.dolistapi.repository.UserRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

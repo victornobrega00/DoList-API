@@ -1,6 +1,6 @@
-package com.victor.dolistapi.infrastructure;
+package com.victor.dolistapi.infrastructure.security;
 
-import com.victor.dolistapi.domain.repository.UserRepository;
+import com.victor.dolistapi.repository.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
